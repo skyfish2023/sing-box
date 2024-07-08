@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "openai.com",
+        "chatgpt.com",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "bing.com",
+        "claude.ai",
+        "anthropic.com"
+      ],
+      "domain": [
+        "copilot.microsoft.com",
+        "gemini.google.com"
+      ]
+    }
+  ]
+}
