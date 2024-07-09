@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "gdkty.com",
+        "api-drive.mypikpak.com"
+      ],
+      "domain_regex": [
+        "^dl-.+\\.mypikpak\\.com"
+      ]
+    }
+  ]
+}
