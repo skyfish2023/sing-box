@@ -1,2 +1,2 @@
-domain-regex,^dl-.*\\.mypikpak\\.com$
-domain-suffix,gdkty.com
+URL-REGEX,(.+)?dl-.*\.mypikpak\.com
+DOMAIN-SUFFIX,gdkty.com
