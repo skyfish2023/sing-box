@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "f.proxys5.net"
+      ]
+    }
+  ]
+}
