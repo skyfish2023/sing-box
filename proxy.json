@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "f.proxys5.net"
+        "f.proxys5.net",
+        "8591.com.tw"
       ]
     }
   ]
