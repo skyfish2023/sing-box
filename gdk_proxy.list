@@ -1,6 +1,4 @@
-f.proxys5.net
-8591.com.tw
-parsec.app
-+.parsec.app
-parsecusercontent.com
-+.parsecusercontent.com
+DOMAIN-SUFFIX,f.proxys5.net
+DOMAIN-SUFFIX,8591.com.tw
+DOMAIN-SUFFIX,parsec.app
+DOMAIN-SUFFIX,parsecusercontent.com
