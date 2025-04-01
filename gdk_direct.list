@@ -1,3 +1,5 @@
 DOMAIN-SUFFIX,gdkty.com
 DOMAIN-SUFFIX,api-drive.mypikpak.com
 DOMAIN-REGEX,^dl-.*\.mypikpak\.com
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,mtalk.google.com
