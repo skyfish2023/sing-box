@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,gdkty.com
+DOMAIN-SUFFIX,gdkty.dpdns.org
 DOMAIN-SUFFIX,api-drive.mypikpak.com
 DOMAIN-REGEX,^dl-.*\.mypikpak\.com
 DOMAIN-SUFFIX,push.apple.com
