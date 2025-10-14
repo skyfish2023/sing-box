@@ -1,1 +1,1 @@
-DOMAIN-REGEX,^adse(\.[\w-]+)*\.ximalaya\.com
+DOMAIN-REGEX,^adse[\w-]*(\.[\w-]+)?\.ximalaya\.com
