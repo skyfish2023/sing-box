@@ -1,2 +1,1 @@
-rules:
-  - DOMAIN-REGEX,^adse(\.[\w-]+)*\.ximalaya\.com\/,REJECT
+DOMAIN-REGEX,^adse(\.[\w-]+)*\.ximalaya\.com
