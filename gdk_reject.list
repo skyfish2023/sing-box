@@ -1,1 +1,2 @@
 DOMAIN-REGEX,^adse[\w-]*(\.[\w-]+)?\.ximalaya\.com
+DOMAIN,pns.ximalaya.com
