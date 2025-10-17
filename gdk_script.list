@@ -2,3 +2,16 @@ DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-KEYWORD,ximalaya
 DOMAIN-KEYWORD,xmcdn
 DOMAIN,ulogs.umeng.com
+# 精确主机匹配
+DOMAIN,tmeadcomm.y.qq.com
+DOMAIN,ad.tencentmusic.com
+DOMAIN,xs.gdt.qq.com
+DOMAIN,bd-api.kuwo.cn
+DOMAIN,bd-api.kuwo.com
+DOMAIN,h5app.kuwo.cn
+DOMAIN,h5s.kuwo.cn
+DOMAIN,bodianimgcdn.kuwo.cn
+DOMAIN,ab-bodian.kuwo.cn
+
+# 匹配所有 *.l.qq.com 子域（仅此后缀）
+DOMAIN-SUFFIX,l.qq.com
