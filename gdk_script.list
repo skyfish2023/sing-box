@@ -15,4 +15,3 @@ DOMAIN,ab-bodian.kuwo.cn
 
 # 匹配所有 *.l.qq.com 子域（仅此后缀）
 DOMAIN-SUFFIX,l.qq.com
-DOMAIN-SUFFIX,kuwo.cn
