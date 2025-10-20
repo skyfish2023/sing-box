@@ -12,7 +12,6 @@ DOMAIN,h5app.kuwo.cn
 DOMAIN,h5s.kuwo.cn
 DOMAIN,bodianimgcdn.kuwo.cn
 DOMAIN,ab-bodian.kuwo.cn
-DOMAIN,xiaoshuo.xmxsapp.com
 
 # 匹配所有 *.l.qq.com 子域（仅此后缀）
 DOMAIN-SUFFIX,l.qq.com
